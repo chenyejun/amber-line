@@ -1,13 +1,25 @@
 # Amber Line
 
-[![threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/chenyejun/amber-line/rank.svg)](https://make.fun/bounty/threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/chenyejun/amber-line/reward.svg)](https://make.fun/bounty/threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/chenyejun/amber-line/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/chenyejun/amber-line/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 A round-based tactical FPS in the browser, built on three.js. Dusk over the old
 freight yard: you hold the line with two Amber teammates against five Rust raiders.
 First to five rounds takes the yard — and the raiders carry a charge, so every round
 is a race to stop the plant or cut the wire.
+
+## Run it
+
+```sh
+node serve.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=kr2w23qf&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
+
+---
 
 ## Play it
 
